@@ -1,0 +1,5 @@
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.csproj.AssemblyReference.cache
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.AssemblyInfoInputs.cache
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.AssemblyInfo.cs
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.csproj.CoreCompileInputs.cache
