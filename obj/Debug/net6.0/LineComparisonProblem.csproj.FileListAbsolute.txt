@@ -3,3 +3,13 @@ C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.
 C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.AssemblyInfoInputs.cache
 C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.AssemblyInfo.cs
 C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.csproj.CoreCompileInputs.cache
+C:\Moorthy\ASP.NET\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.exe
+C:\Moorthy\ASP.NET\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.deps.json
+C:\Moorthy\ASP.NET\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.runtimeconfig.json
+C:\Moorthy\ASP.NET\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.dll
+C:\Moorthy\ASP.NET\LineComparisonProblem\bin\Debug\net6.0\LineComparisonProblem.pdb
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.dll
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\refint\LineComparisonProblem.dll
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.pdb
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\LineComparisonProblem.genruntimeconfig.cache
+C:\Moorthy\ASP.NET\LineComparisonProblem\obj\Debug\net6.0\ref\LineComparisonProblem.dll

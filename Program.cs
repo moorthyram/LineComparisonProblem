@@ -25,8 +25,8 @@
             x4 = Convert.ToInt32(l2_values[2]);
             y4 = Convert.ToInt32(l2_values[3]);
 
-            length_l1 = (x1, y1, x2, y2);  
-            length_l2 = (x3, y3, x4, y4);
+            length_l1 = Math.Sqrt((Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2)));
+            length_l2 = Math.Sqrt((Math.Pow(x3 - x4, 2) + Math.Pow(y3 - y4, 2)));
 
             if (length_l1 == length_l2)
                 Console.WriteLine("Both Lines are Equal");
